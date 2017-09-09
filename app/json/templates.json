@@ -1,0 +1,84 @@
+[
+    {
+        "id":1,
+        "name":"Brendon",
+        "description":"Brendon  is a modern clean personal resume HTML template , suitable for everyone because of its universal design. If you want an awesome personal template than Brendon HTML Template is the best    choice for you. Brendon is the Minimal Personal HTML Template and it has Blog section for bloggers and portfolio to highlight your works.Brendon HTML Template looks perfect on all major browsers, tablets and phones. Brendon HTML Template owns universal design, suitable for any type of websites. Brendon HTML Template is powered by the outstanding Bootstrap, to give you a fast and easy web experience. Clean and commented code lets you customize it easily. Stand out from the crowd and make a good impression. You'll get free updates and a good support.",
+        "price":499,
+        "image":{
+            "thumbnail":"brendon-min.jpg",
+            "original":"brendon.jpg"
+        }
+    },
+     {
+        "id":2,
+        "name":"Drop",
+        "description":"Drop is minimal portfolio template with modern look-n-feel. It's a cutting edge premium Portfolio HTML Template for creative professionals, agencies and freelancers. It suits to make minimal concept Portfolio site and personal site. if you want to show your creative Work, Drop - Creative Personal & Portfolio Minimal Theme will be your best Choice. This theme comes with a charming portfolio Index page with stunning page loading interaction and beautiful color combination, a unique header design along with beautiful and slick animations.Drop is Built With Minimal Design Philosophy and Object Based Design scope. So We are 1000 Times Confident than other Web design agency.On the Project Image page you can Feel the freedom. Include your projectâ€™s details as well as with multiple images or videos per projects item so you can show multiple steps or aspects of the given project. You can Change Theme Color and many Custom color.",
+        "price":399,
+        "image":{
+            "thumbnail":"drop-min.jpg",
+            "original":"drop.jpg"
+        }
+    },
+     {
+        "id":3,
+        "name":"Goarch",
+        "description":"go.arch is a luxury, elegant and trendy theme designed in two color styles: Dark & Light. You can be use it for a lot of websites, like architecture buerau, interior design, constructions, photographers and other corporate or creative websites.",
+        "price":599,
+        "image":{
+            "thumbnail":"goarch-min.jpg",
+            "original":"goarch.jpg"
+        }
+    },
+    {
+        "id":4,
+        "name":"Indigo",
+        "description":"Brendon  is a modern clean personal resume HTML template , suitable for everyone because of its universal design. If you want an awesome personal template than Brendon HTML Template is the best    choice for you. Brendon is the Minimal Personal HTML Template and it has Blog section for bloggers and portfolio to highlight your works.Brendon HTML Template looks perfect on all major browsers, tablets and phones. Brendon HTML Template owns universal design, suitable for any type of websites. Brendon HTML Template is powered by the outstanding Bootstrap, to give you a fast and easy web experience. Clean and commented code lets you customize it easily. Stand out from the crowd and make a good impression. You'll get free updates and a good support.",
+        "price":399,
+        "image":{
+            "thumbnail":"indigo-min.jpg",
+            "original":"indigo.jpg"
+        }
+    },
+     {
+        "id":5,
+        "name":"HowardHawk",
+        "description":"If you are dreaming about an alluring website that would drive traffic and ensure a high conversion rate for your coaching website, then Business Consultant Website Template is your goal! A tailor-made functionality, meant to provide a worry-free user experience, consists of additional pages with clean layouts. Apart from powerful feel, it was supplied with a neat design and smooth functionality. Bootstrap in the core of this Parallax template provides for a responsive design that will adapt to any screen size and be a dream to use in spite of device and platform. Also, you will have an opportunity to play around with a load of handy UI elements, multiple header and footer layouts and over 30 ready-made HTML5 pages in order to make your future online presence stand out. Click on the demo to see the true power of Business Consultant Website Template.",
+        "price":650,
+        "image":{
+            "thumbnail":"howardhawk-min.jpg",
+            "original":"howardhawk.jpg"
+        }
+    },
+     {
+        "id":6,
+        "name":"Horserati",
+        "description":"Horse Multipage Web Template is a must-have for those, who want to build a modern online presence for their equestrian business. It was supplied with over 30 ready-made HTML pages and you will be able to take advantage of them and present your horse riding services with style. Built with Bootstrap, this theme is fully responsive and will look as good on tablets and smartphones as on laptops and desktops. Professionally-looking design with black-and-white backgrounds is just what you need to tell the whole world about your business! In case you want to refresh or change the look of your future online presence, you can make use of rich UI kit and spice it up with various elements. Detailed documentation will help you to set up, customize and manage your website on the fly. Stylish film slider will provide for an impeccable presentation of your special offers, users will be able to get to know them within a swipe. Grab Horse Web Template to spread a word about your equestrian business!.",
+        "price":700,
+        "image":{
+            "thumbnail":"horserati-min.jpg",
+            "original":"horserati.jpg"
+        }
+    },
+     {
+        "id":7,
+        "name":"Derrick Mathews",
+        "description":"Derick Mathews is a Bootstrap-based Personal Trainer Multipage Website Template, which suits for fitness coaches. Its mesmerizing look and impressive feel will immerse visitors straight after landing on your homepage and make them curious to dig deeper into your site in order to learn more about your company. Sophisticated head to toe, it was created with care and attention to details, thus, even elements like loading widget is an example of creativity and style. Apart from self-sufficient design and functionality, this theme has a number of opportunities for you to express your creativity. Take advantage of rich UI kit and over 30 ready-made HTML5 pages, multiple header and footer layouts to customize this template up to your liking. Enjoy in action Personal Trainer Website Template with the live demo preview..",
+        "price":999,
+        "image":{
+            "thumbnail":"derick-mathews-min.jpg",
+            "original":"derick-mathews.jpg"
+        }
+    },
+     {
+        "id":8,
+        "name":"EazyCorp",
+        "description":"ADMIN DASHBOARD : Start your web application by using our Admin Dashboard Pages.VISUAL BUILDER:You can now use Visual Builder to create singlepage or multipage websites with no coding!.",
+        "price":499,
+        "image":{
+            "thumbnail":"eazycorp-min.jpg",
+            "original":"eazycorp.jpg"
+        }
+    }
+
+
+]
