@@ -17,7 +17,26 @@
             <p class="pr-5">{{template.description}}
             </p>
            <p class="lead">Price &#x20b9; {{template.price}}</p>
-            <a class="btn btn-danger btn-md "  href="#"><i class="fa fa-shopping-cart" aria-hidden="true"></i>  Get it Now</a>
+           
+            <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                  <input type="hidden" name="cmd" value="_xclick">
+                  <input type="hidden" name="business" value="seller@designerfotos.com">
+                  <input type="hidden" name="item_name" value={{template.name}}>
+                  <input type="hidden" name="item_number" value={{template.id}}>
+                  <input type="hidden" name="amount" value={{template.price}}>
+                  <input type="hidden" name="quantity" value="1">
+                  <input type="hidden" name="currency_code" value="USD">
+                  <input type="hidden" name="no_shipping" value="1">
+                  <input type="hidden" name="rm" value="2">
+                  <input type="hidden" name="return" value="http://localhost:8000">
+                  <input type="hidden" name="cancel_return" value="http://localhost:8000">
+
+                  <input type="image"  name="submit"
+                    src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif"
+                    alt="PayPal - The safer, easier way to pay online">
+                  <!--<a class="btn btn-danger btn-md "  type="button" name="submit"><i class="fa fa-shopping-cart" aria-hidden="true"></i>  Get it Now</a>-->
+            </form>
+            
             <p class="mt-2"><small>Questions before or after purchase? Get <a href="#">help</a> at any time!</small></p>
         </div>
     </div>
