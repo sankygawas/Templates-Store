@@ -20,8 +20,7 @@ angular.module('templatesStore.templates', ['ngRoute'])
 .controller('TemplatesController',function($scope,$http){
     $http.get("json/templates.json").success(function(data){
       $scope.templates = data;
-        console.log(data);
-    });;
+    });
     
     
 })
